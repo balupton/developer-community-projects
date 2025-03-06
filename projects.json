@@ -10,6 +10,16 @@
 		"tags": ["python", "sdk", "orm", "cli", "devops", "automation", "kubernetes", "k8s"]
 	},
 	{
+		"category": "repo",
+		"id": "helmfile-vals",
+		"title": "Helmfile Vals",
+		"description": "Load secrets from 1Password into Helmfile values",
+		"author": "Zois Pagoulatos",
+		"url": "https://github.com/helmfile/vals",
+		"createdAt": "2024-05-19",
+		"tags": ["helm", "kubernetes", "k8s", "devops", "sdk", "go"]
+	},
+	{
 		"category": "article",
 		"id": "sickle-1password-meets-git",
 		"title": "1Password Meets Git",
