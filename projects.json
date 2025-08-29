@@ -405,5 +405,15 @@
 		"description": "An integration for using 1Password as a secret backend with vals",
 		"createdAt": "2024-06-04",
 		"tags": ["vals", "1password sdks", "secret reference", "service accounts"]
+	},
+	{
+		"category": "repo",
+		"id": "1p-connector",
+		"title": "Lightweight script connector that uses 1Password Server items to drive SSH, SCP, RSYNC and SFTP sessions.",
+		"author": "Augusto Campos (augcampos)",
+		"url": "https://github.com/augcampos/1p-connector",
+		"description": "Lightweight connector that uses 1Password Server items to drive SSH, SCP, RSYNC and SFTP sessions.\n\nThis tool fetches connection data (host, user, SSH key or password) from 1Password via the 1Password CLI and runs the requested remote command using the appropriate authentication method.",
+		"createdAt": "2025-08-20",
+		"tags": ["1p-connector", "augcampos", "1password", "bash", "script", "ssh", "scp", "rsync", "sftp", "ssh auth", "key", "fix", "SSH server six-key limit", "Too many authentication failures"]
 	}
 ]
